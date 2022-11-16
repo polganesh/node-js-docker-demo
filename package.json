@@ -2,7 +2,7 @@
   "name": "nodejs-image-demo",
   "version": "1.0.0",
   "description": "nodejs image demo",
-  "author": "Ganesh Pol<ganesh.pol@accenture.com>",
+  "author": "Ganesh Pol<polganesh@example.com>",
   "license": "MIT",
   "main": "app.js",
   "keywords": [
